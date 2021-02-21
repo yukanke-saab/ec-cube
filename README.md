@@ -1,5 +1,5 @@
-# EC-CUBE 4.0
-
+ EC-CUBE 4.0
+d
 [![Build Status](https://travis-ci.com/EC-CUBE/ec-cube.svg?branch=4.0)](https://travis-ci.com/EC-CUBE/ec-cube)
 [![AppVeyor](https://img.shields.io/appveyor/ci/ECCUBE/ec-cube)](https://ci.appveyor.com/project/ECCUBE/ec-cube)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/EC-CUBE/ec-cube/badges/quality-score.png?b=4.0)](https://scrutinizer-ci.com/g/EC-CUBE/ec-cube/?branch=4.0)
